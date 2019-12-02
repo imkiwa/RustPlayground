@@ -1,5 +1,5 @@
 [package]
-name = "RustPlayground"
+name = "rust_playground"
 version = "0.1.0"
 authors = ["imkiva <libkernelpanic@gmail.com>"]
 edition = "2018"

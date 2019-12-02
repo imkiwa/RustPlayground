@@ -1,3 +1,7 @@
+mod chapter1;
+
 fn main() {
-    println!("Hello, world!");
+    chapter1::section2::formatted_print();
+    chapter1::section2::debug_printable();
+    chapter1::section2::display_printable();
 }
